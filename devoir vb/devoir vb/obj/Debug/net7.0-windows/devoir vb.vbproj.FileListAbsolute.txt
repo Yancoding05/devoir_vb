@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\bin\Debug\net7.0-windows\devoir vb.exe
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\bin\Debug\net7.0-windows\devoir vb.deps.json
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\bin\Debug\net7.0-windows\devoir vb.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\bin\Debug\net7.0-windows\devoir vb.dll
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\bin\Debug\net7.0-windows\devoir vb.pdb
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\devoir_vb.Form1.resources
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\devoir_vb.Form2.resources
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\devoir vb.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\devoir vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\devoir vb.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\devoir vb.AssemblyInfo.vb
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\devoir vb.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\devoir vb.dll
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\refint\devoir vb.dll
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\devoir vb.pdb
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\devoir vb.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Bureau\kehty\devoir vb\devoir vb\obj\Debug\net7.0-windows\ref\devoir vb.dll
